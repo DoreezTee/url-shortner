@@ -1,0 +1,70 @@
+
+
+a{
+    color: #000;
+    text-decoration: none;
+ }
+ p{
+    line-height: 2rem;
+ }
+ 
+ 
+ .heading{
+    text-align: center;
+    margin: 3rem;
+ }
+ .login-btn{
+   background-color: #fff;
+   box-shadow: 5px 10px 8px #a1a983;
+   text-align: center;
+   margin-left: 2rem;
+   padding: 1rem;
+  
+ }
+ .last-login{
+    background-color: #2E3e00;
+    box-shadow: 5px 10px 8px #a1a983;
+    width: 50%;
+    text-align: center;
+ }
+ .login{
+    color: #fff;
+ }
+ .sign-up{
+    color: #2E3e00;
+    opacity: 0.5;
+ }
+ 
+ .form-outline{
+    width: 50%;
+   margin-left: 25%;
+   padding: 2rem;
+ }
+ label{
+    margin-right: 100%;
+ }
+ 
+ .or{
+    text-align: center;
+ }
+
+ .fa-brands{
+    color: rgb(33, 33, 241);
+ }
+ .form-control {
+    background-color: #d9d9d9;
+    border: 1px solid #727070;
+    border-top: none;
+    border-right: none;
+    border-radius: 0;
+ 
+ }
+ .form-control-2{
+    background-color: #d9d9d9;
+    border: 1px solid #727070;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 0;
+ }
+ 

@@ -1,0 +1,82 @@
+
+body{
+    text-align: center;
+}
+a{
+    color: #d9d9d9;;
+}
+h4{
+    line-height: 1.5;
+}
+.heading{
+   text-align: center;
+   margin:  3rem;
+   font-weight:700;
+   line-height: 2;
+   
+}
+.col-sm-1{
+    background-color: #2E3e00;
+}
+
+.col-4{
+    margin-bottom: 10rem;
+}
+.second-card{
+    border: none;
+    margin-bottom: 4rem;
+   
+}
+.nav-link{
+    padding:1.5rem;
+    margin-right: 3rem;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.logout{
+    color: #fff;
+    text-decoration: none;
+    margin-top: 15rem;    
+   }
+.fa-solid{
+ color: #fff;
+ padding: 1.5rem;
+ opacity: 0.5;
+} 
+.fa-house{
+    opacity: 1;
+    margin-top: 10rem;
+}
+
+.circle-icon{
+    
+    color: #ebebf1;
+    padding:4px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.value{
+    padding: 2rem;
+   border: none;
+   line-height:1.2rem;
+   font-size: 0.8rem;
+   text-align: left;
+   opacity: 0.8;
+   margin-bottom: 2rem;
+}
+
+#footer{
+    background-color: #000;
+   
+}
+
+.last-section{
+   background-color: #000;
+   color: #fff;
+   padding: 2rem;
+   border: none;
+   line-height:1.2rem;
+   font-size: 0.8rem;
+   text-align: left;
+}

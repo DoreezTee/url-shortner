@@ -1,0 +1,49 @@
+/* .body{
+    text-align: center;
+} */
+h6{
+    margin-bottom: 2rem;
+}
+.col-sm-1{
+    background-color:#2E3e00;
+}
+.col-sm-11 {
+    background-color: #ffffff;
+}
+.form-row{
+    margin-top:4rem;
+    margin: 4rem;
+}
+
+.nav-link{
+    padding:1.5rem;
+    margin-right: 3rem;
+    font-weight: 500;
+    font-size: 1rem;
+}
+.logout{
+    color: #fff;
+    text-decoration: none;
+    margin-top: 15rem;
+    
+   }
+.btn-1{
+    padding-right: 3.5rem;
+    margin:0 2rem;
+    /* margin-right: 2rem; */
+    background-color:#2E3e00;
+    text-align: center;
+
+    }
+   
+   /* font awesome */
+.fa-solid{
+ color: #fff;
+ margin: 2rem;
+ opacity: 0.5;
+} 
+.fa-house{
+    opacity: 1;
+    margin-top: 10rem;
+}
+
